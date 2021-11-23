@@ -1,0 +1,10 @@
+body {
+    background-color:yellow ;
+}
+#btn1{
+    float:right;
+}
+
+.btn-danger:hover{
+  background-color: navy;
+}
